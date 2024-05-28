@@ -86,7 +86,6 @@
 <br>
 
 <div align='left'>
-<ul>
 
 <a href="https://linkedin.com/in/abdelmonemrabea" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
@@ -96,9 +95,8 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
   
-<a href="tel:+201111239035" target="_blank">
-<img src="https://img.shields.io/badge/phone-%2300acee.svg?color=34A853&style=for-the-badge&logo=phone&logoColor=white" alt=phone style="margin-bottom: 5px;" />
+<a href="https://api.whatsapp.com/send?phone=+201111239035&text=Hi,Abedlmonem" target="_blank">
+<img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white" alt=phone style="margin-bottom: 5px;" />
 </a>	
 
-</ul>
 </div>
