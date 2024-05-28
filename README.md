@@ -15,7 +15,7 @@
 - 🌍 Based in Egypt, Gharbia, El-Mahalla El-Kubra
 - 💻 Always learning and experimenting with new technologies
 - 📧 [Email me](mailto:abdelmonemranea2000@gmail.com) or [Connect on LinkedIn](https://linkedin.com/in/abdelmonemrabea)
-- 📄 Check out my [resume](https://github.com/3bdelmonem/Resume)
+- 📄 Check out my [resume](https://drive.google.com/file/d/10EN0JtHcI23ddwXf9GkI4GwKU17Y5or_/view)
 
 <br><br>
 
@@ -139,12 +139,3 @@
 <br>
 <br>
 <br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
