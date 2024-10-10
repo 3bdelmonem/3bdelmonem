@@ -11,7 +11,7 @@
 - 🎓 Computer Science Graduate from Mansoura University
 - 🌍 Based in Egypt, Gharbia, El-Mahalla El-Kubra
 - 💻 Always learning and experimenting with new technologies
-- 📧 [Email me](mailto:abdelmonemranea2000@gmail.com) or [Connect on LinkedIn](https://linkedin.com/in/abdelmonemrabea)
+- 📧 [Email me](mailto:abdelmonem.developer@gmail.com) or [Connect on LinkedIn](https://linkedin.com/in/abdelmonemrabea)
 - 📄 Check out my [resume](https://drive.google.com/file/d/1nsnwObow7MktWQgcxGHTHBcqsR9eYnMP/view)
 
 <br>
