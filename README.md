@@ -4,7 +4,7 @@
   <a href="https://github.com/3bdelmonem"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Professional+Flutter+Developer,;Computer+Science+Graduate,;Innovative+Problem+Solver,;Always+Learning+New+Technologies..<3"></a>
 </p>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## <picture><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"></picture> **About Me**
 <br>
 
 - 🔥 Passionate Mobile Developer with over two years of experience in Flutter
@@ -12,7 +12,7 @@
 - 🌍 Based in Egypt, Gharbia, El-Mahalla El-Kubra
 - 💻 Always learning and experimenting with new technologies
 - 📧 [Email me](mailto:abdelmonem.developer@gmail.com) or [Connect on LinkedIn](https://linkedin.com/in/abdelmonemrabea)
-- 📄 Check out my [resume](https://drive.google.com/file/d/1ebfnBzYGPZasmL1pwEoCRICfdc-wtro0/view?usp=sharing/view)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1Mc3zx9KLmlbelrkyMnPAIX8cz0ZIMg9B/view?usp=sharing)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -87,7 +87,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="35"><b> Let's Connect </b>
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="35"><b> Let's Connect </b>
 <br>
 
 <div align='left'>
