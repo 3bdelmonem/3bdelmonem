@@ -205,10 +205,6 @@ class AbdelmonemRabea extends SeniorFlutterDeveloper {
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelmonem&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8&cache_seconds=1800)
-
-<br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=3bdelmonem&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/3bdelmonem)
 
 </div>
