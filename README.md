@@ -133,7 +133,7 @@ class AbdelmonemRabea extends SeniorFlutterDeveloper {
 
 ---
 
-### 🌍 Senior Flutter Developer — [Addicta](https://addicta.com) · Egypt & International
+### 🌍 Senior Flutter Developer — Addicta · Egypt & International
 `Nov 2023 → Present` *(Full-Time → Part-Time)*
 
 - Shipped production apps in **Egypt · Ireland · Spain · Australia** — adapting UX and compliance per market
