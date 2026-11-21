@@ -1,246 +1,211 @@
+<a href="https://abdelmonem.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img alt="Abdelmonem Rabea — Senior Mobile Engineer (Flutter). 40+ apps shipped, 500K+ installs, 7 countries, 5+ years." src="./assets/header-light.svg" width="100%">
+  </picture>
+</a>
+
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ███████╗ █████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
-██████╔╝███████║██████╔╝█████╗  ███████║
-██╔══██╗██╔══██║██╔══██╗██╔══╝  ██╔══██║
-██║  ██║██║  ██║██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=3B8EEA&center=true&vCenter=true&width=640&lines=Lead+Mobile+Engineer+%40+Event+Masters+(Riyadh);Clean+Architecture+%C2%B7+BLoC+%C2%B7+test-first+Flutter;Government+platforms+in+Egypt+and+Saudi+Arabia;Open+to+remote+roles+and+relocation)](https://abdelmonem.dev)
 
-### `Senior Flutter Developer` · `5+ Years` · `20+ Production Apps`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdelmonem+%F0%9F%91%8B;Building+Apps+That+Actually+Ship+%F0%9F%9A%80;Clean+Architecture+%7C+BLoC+%7C+CI%2FCD;Egypt+%E2%86%92+Saudi+Arabia+%E2%86%92+Beyond;4%2B+Years+%7C+20%2B+Apps+%7C+6+Countries)](https://github.com/3bdelmonem)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdelmonem.dev-0B74D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdelmonem.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelmonemrabea)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmonem.developer@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201111239035)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://drive.google.com/file/d/1rhwrMNagNzwaCs6QvkV-_C_54qdkO2hg/view)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmonem.developer@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201111239035)
 
 </div>
 
----
+## 👋 About me
 
-## 〔 WHO I AM 〕
+I'm a senior mobile engineer who ships Flutter apps end to end — architecture, code, tests, store releases and production triage. Over 5+ years I've built **40+ apps** for clients in **7 countries** across Egypt, the Gulf, Europe and Australia, including **government platforms** in Egypt and Saudi Arabia, with **500K+ installs** on Android and iOS.
 
 ```dart
-class AbdelmonemRabea extends SeniorFlutterDeveloper {
-  final String location    = "El-Mahalla El-Kubra, Egypt 🇪🇬";
-  final int    experience  = 5; // years
-  final int    appsShipped = 20; // production apps
-  final List   markets     = ["🇪🇬 Egypt", "🇸🇦 Saudi Arabia", "🇦🇪 UAE",
-                               "🇮🇪 Ireland", "🇪🇸 Spain", "🇦🇺 Australia"];
-  final List   domains     = ["Fintech", "Logistics", "Healthcare", "E-Commerce"];
-
+final class Abdelmonem extends SeniorMobileEngineer {
   @override
-  String get currentRole => "Lead Mobile Developer @ Event Masters, SA";
+  final role = 'Lead Mobile Engineer @ Event Masters';
 
-  @override
-  bool get openToWork => true; // Always building something 🔥
+  final base = 'Egypt 🇪🇬 · UTC+2';
+  final openTo = ['remote', 'relocation'];
+  final shipped = (apps: 40, installs: '500K+', countries: 7);
+  final stack = ['Flutter', 'Dart 3', 'BLoC', 'Clean Arch'];
+  final speaks = ['Arabic', 'English'];
+
+  List<String> get strengths => [
+        'Arabic-first products with full RTL',
+        'White-label builds from one codebase',
+        'End-to-end release ownership',
+        'Test-first, CI-enforced quality',
+      ];
 }
 ```
 
----
+**🔭 Right now**
 
-## 〔 TECH ARSENAL 〕
+- Leading mobile at **Event Masters** — a 7-app workforce platform (5 live, 2 in development)
+- Shipping client apps for Egypt, Ireland, Spain and Australia with **Addicta**
+- Building AI-assisted: Claude Code with project rules, test-first workflows and review gates
 
-<div align="center">
+## 📈 By the numbers — Event Masters
 
-### ⚡ Core — What I Live In
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%"><h3>93%</h3><sub>of 2,064 commits across all 7 apps</sub></td>
+    <td align="center" valign="top" width="25%"><h3>270k</h3><sub>lines of Dart · 350+ screens · 190+ Cubits</sub></td>
+    <td align="center" valign="top" width="25%"><h3>2,000+</h3><sub>automated tests in 2026, up from almost none</sub></td>
+    <td align="center" valign="top" width="25%"><h3>250K+</h3><sub>iOS installs on the flagship app</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><h3>−40%</h3><sub>release cycle time with GitHub Actions + Shorebird OTA</sub></td>
+    <td align="center" valign="top"><h3>~½</h3><sub>Android download size, down from 54.9 MB</sub></td>
+    <td align="center" valign="top"><h3>502</h3><sub>audit findings turned into a 90-task, 6-phase plan</sub></td>
+    <td align="center" valign="top"><h3>en · ar · fr</h3><sub>white-label builds from one config-driven codebase</sub></td>
+  </tr>
+</table>
 
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Production_Grade-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Daily_Driver-6C63FF?style=flat-square)
-![BLoC](https://img.shields.io/badge/BLoC-Primary_SM-0175C2?style=flat-square)
+## 🚀 Featured work
 
-### 🏗 Architecture & Patterns
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 Event Masters Suite</h3>
+      <sub><b>WORKFORCE MANAGEMENT · SAUDI ARABIA</b></sub>
+      <p>7-app platform for event staffing. I rebuilt the flagship app from scratch: KYC onboarding, on-ground attendance, payslips, e-signed agreements and a training academy, with biometric login and real-time updates over Socket.IO.</p>
+      <p>📲 <b>12K+</b> Android · <b>250K+</b> iOS installs</p>
+      <a href="https://abdelmonem.dev/work/event-masters-suite">Case study →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇸🇦 Mutawwifs</h3>
+      <sub><b>GOVERNMENT · MINISTRY OF HAJJ AND UMRAH</b></sub>
+      <p>Field app, Coordinating Council app and two dashboards: group tracking, wristband identification and field coordination at Masjid al-Haram. Arabic-first with full RTL.</p>
+      <p>🏛️ Built for the Saudi Ministry of Hajj and Umrah</p>
+      <a href="https://abdelmonem.dev/work/mutawwifs-ministry-of-hajj">Case study →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇪🇬 Egypt Auctions</h3>
+      <sub><b>GOVERNMENT · EGYPT</b></sub>
+      <p>National auction platform with real-time bid streaming over Socket.IO and FCM.</p>
+      <p>📲 <b>13K+</b> Android installs</p>
+      <a href="https://abdelmonem.dev/work/egypt-auctions">Case study →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇪🇬 Egypt Real Estate</h3>
+      <sub><b>GOVERNMENT · EGYPT</b></sub>
+      <p>National real-estate platform with Banque Misr mortgage integration.</p>
+      <p>📲 <b>13K+</b> Android installs in its first 11 months</p>
+      <a href="https://abdelmonem.dev/work/egypt-real-estate">Case study →</a>
+    </td>
+  </tr>
+</table>
 
-![MVVM](https://img.shields.io/badge/MVVM-✓-4CAF50?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-✓-4CAF50?style=flat-square)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-✓-4CAF50?style=flat-square)
-![Provider](https://img.shields.io/badge/Provider-✓-4CAF50?style=flat-square)
-![GetX](https://img.shields.io/badge/GetX-✓-4CAF50?style=flat-square)
+**Also shipped:** InPerson (HR & community platform) · Peel (fitness marketplace, Spain) · StatDoctor (hospital shifts, Australia) · CairoScan (5.8K+ installs) · Dog Drive (4.2K+) · Hatly Vendor · Remontada FC
 
-### 🔧 State Management
+## 🛠️ Tech stack
 
-![BLoC](https://img.shields.io/badge/BLoC-★★★★★-02569B?style=flat-square&logo=flutter)
-![Provider](https://img.shields.io/badge/Provider-★★★★☆-7952B3?style=flat-square)
-![GetX](https://img.shields.io/badge/GetX-★★★★☆-9C27B0?style=flat-square)
-![Hooks](https://img.shields.io/badge/Hooks-★★★☆☆-00BCD4?style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,androidstudio,graphql,githubactions,git,postman,figma&perline=11" alt="Flutter, Dart, Kotlin, Swift, Firebase, Android Studio, GraphQL, GitHub Actions, Git, Postman, Figma">
+</p>
 
-### 🌐 Backend & Services
+- **Flutter & Dart** — Dart 3, BLoC/Cubit, Clean Architecture (feature-first), get_it, Dio, Hive, sealed states, Either-based error handling
+- **Native & device** — Kotlin, Swift/SwiftUI, Platform Channels, Dart FFI, NFC, QR scanning, biometrics, Google Maps, geofencing
+- **Data & real-time** — REST, GraphQL, Socket.IO, WebSockets, Firestore, FCM, encrypted local storage
+- **Quality & delivery** — flutter_test, bloc_test, mocktail, GitHub Actions, Shorebird OTA, Fastlane, Codemagic, Sentry, Crashlytics
+- **Product** — Arabic / English / French localization and RTL, white-label flavors, Stripe, RevenueCat, App Store & Google Play compliance
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/RESTful_APIs-005C97?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher)
+## 💼 Experience
 
-### 💳 Payments & Integrations
+**Event Masters** · Riyadh, Saudi Arabia · remote contract &nbsp;`Aug 2024 – present`<br>
+Lead Mobile Engineer since Jan 2025 · joined as Senior Flutter Developer
 
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- Primary engineer across all 7 apps; reviewed and merged work from 4 contributors, and led 3 developers on Promofiy and Seha Pods
+- Rebuilt the flagship app (v1 → v2, now build 114): 104 screens, 120+ REST endpoints
+- Designed a white-label accreditation platform — digital badges, geofenced attendance, zone access — released under each client's own store accounts
+- Built the release pipeline (static analysis, tests, release builds, Sentry symbols) and Shorebird OTA hotfixes on 4 apps
+- Kept every app store-compliant through Android 16 / targetSdk 36, AGP, Gradle, Kotlin and Xcode migrations; own production triage in Sentry and Crashlytics
 
-### 🤖 AI-Powered Development
+**Addicta** · Egypt & international clients · part-time &nbsp;`Nov 2023 – present`<br>
+Senior Flutter Developer
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000?style=flat-square&logo=cursor&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square)
+- Sole mobile engineer on **InPerson** (live on both stores): 89 screens, 90+ endpoints, 11 modules, 190+ tests; led the chat migration to Firestore
+- **Peel** (Spain): RevenueCat subscriptions, a native TikTok SDK bridge over Platform Channels, FFmpeg video compression
+- **StatDoctor** (Australia): payments, analytics SDKs and social auth
+- Modernized inherited apps without pausing releases: staged upgrades, tests before refactoring
 
-### 🚀 DevOps & Delivery
+<details>
+<summary><b>Earlier — Dubisign · H Solutions</b></summary>
+<br>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-28A745?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+**Dubisign** · Saudi Arabia & UAE &nbsp;`Jul 2022 – Nov 2023`<br>
+Flutter Developer, promoted to Senior Flutter Developer (Feb 2023)
 
-### 🛠 Tools
+- Mutawwifs suite for the Saudi Ministry of Hajj and Umrah
+- Introduced CI/CD for automated store distribution and drove Clean Architecture adoption by refactoring in place
+- Custom animations and painters; certificate pinning and token-based auth
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+**H Solutions** · Egypt &nbsp;`May 2021 – Jul 2022`<br>
+Flutter Developer
 
-</div>
+- Production apps with Google Maps, REST APIs and Stripe, including geofenced attendance check-in (100 m radius on a debounced location stream)
+- Reduced crash rates through Crashlytics monitoring and root-cause fixes
 
----
+</details>
 
-## 〔 EXPERIENCE 〕
-
-### 🏆 Lead Mobile Developer — [Event Masters](https://play.google.com/store/apps) · Saudi Arabia
-`Jan 2025 → Present`
-
-> Owning full architecture and delivery of a **4-app product suite** (client · logistics · vendor · admin) on iOS & Android.
-
-- 📉 Cut release cycle by **~40%** via CI/CD with GitHub Actions + Fastlane
-- 👨‍🏫 Mentoring **4 developers** through code reviews and technical deep-dives
-- 🏗 Enforced Clean Architecture + BLoC → significantly reduced regression bugs
-- 🤖 Integrated AI-assisted workflows to accelerate feature delivery
-
----
-
-### ⚙️ Senior Flutter Developer — Event Masters · Saudi Arabia
-`Aug 2024 → Jan 2025`
-
-- Architected the **core Flutter codebase from scratch** — patterns adopted across the full product family
-- Integrated real-time logistics tracking via **Firebase Firestore + WebSockets**
-- Maintained consistent **60 fps** across high-load screens
-
----
-
-### 🌍 Senior Flutter Developer — Addicta · Egypt & International
-`Nov 2023 → Present` *(Full-Time → Part-Time)*
-
-- Shipped production apps in **Egypt · Ireland · Spain · Australia** — adapting UX and compliance per market
-- Boosted user retention via UX redesign + resolved performance bottlenecks (image caching, lazy loading, isolates)
-- Integrated payment gateways, analytics SDKs, and social authentication
-
----
-
-### 🔩 Senior Flutter Developer — Dubisign · Saudi Arabia & UAE
-`Feb 2023 → Nov 2023`
-
-- Enforced Clean Architecture team-wide, reducing technical debt and onboarding friction
-- Introduced CI/CD for automated App Store / Play Store distribution
-- Led internal sessions on **advanced Flutter patterns and performance optimization**
-
----
-
-### 🔩 Mid-Level Flutter Developer — Dubisign
-`Jul 2022 → Feb 2023`
-
-- Built advanced UI with **custom animations and painters**
-- Applied MVVM + repository patterns; hardened security with certificate pinning and token-based auth
-
----
-
-### 🌱 Junior Flutter Developer — H Solutions · Egypt
-`May 2021 → Jul 2022`
-
-- Shipped multiple apps from scratch with Google Maps, REST APIs, and Stripe integration
-- Reduced crash rates via Crashlytics monitoring and legacy code refactoring
-
----
-
-## 〔 SELECTED PROJECTS 〕
-
-<div align="center">
-
-| Project | Market | Domain | Description |
-|---|---|---|---|
-| **Event Masters Suite** | 🇸🇦 Saudi Arabia | Events & Logistics | 4-app ecosystem — client, vendor, logistics, admin. Trusted by event professionals across the Kingdom. |
-| **Mutawwifs** | 🇸🇦 Ministry of Hajj | Gov / Logistics | Official Hajj system managing **millions of pilgrims** at Masjid al-Haram. Real-time group tracking + wristband ID. |
-| **Egypt Auctions** | 🇪🇬 Egypt | Gov / Fintech | National government auction platform. Real-time bidding, thousands of concurrent users. |
-| **Egypt Real Estate** | 🇪🇬 Egypt | Gov / Fintech | Official national real estate platform integrated with **Banque Misr** for mortgage financing. |
-| **Peel Fitness** | 🇪🇸 Spain | Health & Fitness | Global fitness marketplace connecting users with certified personal trainers worldwide. |
-| **StatDoctor** | 🇦🇺 Australia | Healthcare | Hospital shift marketplace — doctors find flexible work, bypassing expensive recruitment agencies. |
-| **Remontada FC** | 🇸🇦 Saudi Arabia | Sports & Media | Football learning & engagement platform for fans across the Arab world. |
-
-</div>
-
----
-
-## 〔 GITHUB STATS 〕
+## 📊 GitHub activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bdelmonem/3bdelmonem/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3bdelmonem/3bdelmonem/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/3bdelmonem/3bdelmonem/output/github-snake.svg" width="100%">
 </picture>
 
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=3bdelmonem&hide_border=true&background=0D1117&stroke=30363D&ring=56C2FF&fire=56C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=56C2FF&sideLabels=8D9BB0&dates=8D9BB0">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=3bdelmonem&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0B74D1&fire=0B74D1&currStreakNum=0D1726&sideNums=0D1726&currStreakLabel=0B74D1&sideLabels=56657A&dates=56657A">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=3bdelmonem&hide_border=true">
+</picture>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3bdelmonem&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF)](https://github.com/3bdelmonem)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=3bdelmonem&bg_color=0D1117&color=8D9BB0&title_color=E6EDF3&line=56C2FF&point=E6EDF3&area=true&area_color=56C2FF&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=3bdelmonem&bg_color=FFFFFF&color=56657A&title_color=0D1726&line=0B74D1&point=0D1726&area=true&area_color=0B74D1&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=3bdelmonem&hide_border=true&area=true" width="100%">
+</picture>
 
-<br>
-
-[![GitHub stats](https://github-stats-alpha.vercel.app/api?username=3bdelmonem&cc=0d1117&tc=00D9FF&ic=ffffff&bc=0d1117)](https://github.com/3bdelmonem)
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=3bdelmonem&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/3bdelmonem)
+<sub>Most of my work lives in private client repositories — the graph counts those contributions too.</sub>
 
 </div>
 
----
+## 🎓 Education
 
-## 〔 EDUCATION & CERTIFICATIONS 〕
+**BSc Computer and Information Sciences** · Mansoura University, Egypt &nbsp;`2018 – 2022`<br>
+🏆 Best Graduation Project Award 2022 — AI and ML food recommendation system (graded Excellent)
 
-🎓 **BSc Computer & Information Sciences** — Mansoura University `2018 – 2022`
-> Grade: Good · Graduation Project: **Excellent** (AI & ML Food Recommendation System 🏆)
-
-### Certifications
-- 🏅 **Best Graduation Project Award 2022** — AI & ML Food Recommendation System
-- 📜 **Natural Language Processing** — 2022
-- 🎮 **Game Development Training** — Unity 2D & 3D · Score: 90% (2021)
-- 📱 The Complete Flutter & Dart Development Guide — *Udemy*
-- 🏗 Deep Dive into Clean Architecture in Flutter — *Udemy*
-- 🧪 Flutter TDD Clean Architecture — *Reso Coder*
-- 💳 Flutter Payment Integration: Stripe, PayPal & More — *Udemy*
-
----
-
-## 〔 CONNECT 〕
-
-<div align="center">
-
-**I'm always open to interesting projects and conversations.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelmonemrabea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelmonemrabea)
-[![Gmail](https://img.shields.io/badge/Gmail-abdelmonem.developer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmonem.developer@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20_111_123_9035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201111239035)
-
+<details>
+<summary><b>Courses & certificates</b></summary>
 <br>
 
-> *"Ship it. Iterate. Repeat."*
+- Natural Language Processing — 2022
+- Game Development Training — Unity 2D & 3D, score 90% (2021)
+- The Complete Flutter & Dart Development Guide — Udemy
+- Deep Dive into Clean Architecture in Flutter — Udemy
+- Flutter TDD Clean Architecture — Reso Coder
+- Flutter Payment Integration: Stripe, PayPal & More — Udemy
 
-![Profile Views](https://komarev.com/ghpvc/?username=3bdelmonem&color=00D9FF&style=flat-square&label=Profile+Views)
+</details>
+
+## 🤝 Let's work together
+
+I'm open to **senior and lead mobile roles** — remote, or relocation for the right team. The fastest way to reach me is [email](mailto:abdelmonem.developer@gmail.com) or [LinkedIn](https://linkedin.com/in/abdelmonemrabea), and you'll find case studies at [abdelmonem.dev](https://abdelmonem.dev).
+
+<div align="center">
+<br>
+
+*"Ship it. Iterate. Repeat."*
+
+![Profile views](https://komarev.com/ghpvc/?username=3bdelmonem&color=0b74d1&style=flat-square&label=Profile+views)
 
 </div>
