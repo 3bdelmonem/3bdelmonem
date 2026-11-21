@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img alt="Abdelmonem Rabea — Senior Mobile Engineer (Flutter). 40+ apps shipped, 500K+ installs, 7 countries, 5+ years." src="./assets/header-light.svg" width="100%">
+    <img alt="Abdelmonem Rabea — Senior Mobile Engineer (Flutter). 40+ apps built, 500K+ installs, 7 countries, 5+ years." src="./assets/header-light.svg" width="100%">
   </picture>
 </a>
 
@@ -28,12 +28,12 @@ final class Abdelmonem extends SeniorMobileEngineer {
 
   final base = 'Egypt 🇪🇬 · UTC+2';
   final openTo = ['remote', 'relocation'];
-  final shipped = (apps: 40, installs: '500K+', countries: 7);
+  final built = (apps: 40, installs: '500K+', countries: 7);
   final stack = ['Flutter', 'Dart 3', 'BLoC', 'Clean Arch'];
   final speaks = ['Arabic', 'English'];
 
   List<String> get strengths => [
-        'Arabic-first products with full RTL',
+        'Bilingual Arabic/English apps, full RTL',
         'White-label builds from one codebase',
         'End-to-end release ownership',
         'Test-first, CI-enforced quality',
