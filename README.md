@@ -117,7 +117,7 @@ final class Abdelmonem extends SeniorMobileEngineer {
 
 ## 💼 Experience
 
-**Event Masters** · Riyadh, Saudi Arabia · remote contract &nbsp;`Aug 2024 – present`<br>
+**Event Masters** · Riyadh, Saudi Arabia · remote, full-time &nbsp;`Aug 2024 – present`<br>
 Lead Mobile Engineer since Jan 2025 · joined as Senior Flutter Developer
 
 - Primary engineer across all 7 apps; reviewed and merged work from 4 contributors, and led 3 developers on Promofiy and Seha Pods
